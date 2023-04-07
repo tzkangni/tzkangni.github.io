@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kang Ni (倪康)"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "research interests include machine learning, computer vision, SAR image processing, and remote sensing image processin. "
 repository               : "tzkangni/tzkangni.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kang Ni (倪康)"
   avatar           : "images/kangni.jpg"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "NJUPT"
+  location         : "Nanjing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  email            : "tznikang@163.com, tznikang@njupt.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -44,8 +43,7 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : https://dblp.org/pid/226/5883.html
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
