@@ -36,13 +36,15 @@ My research interest includes machine learning, computer vision, SAR image proce
 - **Kang Ni**, Pengfei Liu, Peng Wang. High-resolution SAR image classification using subspace wavelet encoding network, **IEEE Geoscience and Remote Sensing Letters**, 2021. [PDF](https://ieeexplore.ieee.org/document/9584865)
 - **Kang Ni**, Yiquan Wu, Peng Wang. Synthetic aperture radar scene classification using multi-view cross correlation attention network, **IEEE Geoscience and Remote Sensing Letters**, 2020. [PDF](https://ieeexplore.ieee.org/document/8915791)
 - **Kang Ni**, Peng Wang, Yiquan Wu. High-order generalized orderless pooling networks for synthetic aperture radar scene classification, **IEEE Geoscience and Remote Sensing Letters**, 2019.[PDF](https://ieeexplore.ieee.org/document/8695749)
+- **Kang Ni**, Yiquan Wu, Peng Wang. Scene classification from synthetic aperture radar images using generalized compact channel-boosted high-order orderless pooling network, **Remote Sensing**, 2019.
 
 ## 🧑🏻‍🤝‍🧑🏼 SAR object detection
 - b
 
 
 ## 🎰Remote sensing scene classification
--  c
+-  **Kang Ni**, Yiquan Wu. Scene classification from remote sensing images using mid-level deep feature learning. **International Journal of Remote Sensing**, 2020.
+-  
 
 ## 🍀 Others
 - d
