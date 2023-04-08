@@ -32,17 +32,17 @@ My research interest includes machine learning, computer vision, SAR image proce
 # 📝 Publications 
 
 ## 🐕 SAR image classification
-- 
+- a
 
 ## 🧑🏻‍🤝‍🧑🏼 SAR object detection
-- 
+- b
 
 
 ## 🎰Remote sensing scene classification
--  
+-  c
 
 ## 🍀 Others
-- 
+- d
 
 # 🎖 Fundings and Projects
 - Natural Science Foundation of China (Youth Project). 
