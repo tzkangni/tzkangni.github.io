@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at the School of Computer Science  as an assistant professor and master’s supervisor <a href='https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=32C25D4D68CE834EB4FF94079834CE0E'> now, doing some fundamental research on  machine learning, computer vision, SAR image processing, and remote sensing image processing. I am also recruiting graduate students, if interested, feel free to email me at tznikang@njupt.edu.cn.
+I work at the School of Computer Science  as an assistant professor and master’s supervisor(https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=32C25D4D68CE834EB4FF94079834CE0E') now, doing some fundamental research on  machine learning, computer vision, SAR image processing, and remote sensing image processing. I am also recruiting graduate students, if interested, feel free to email me at tznikang@njupt.edu.cn.
 
 I graduated from the School of Electronic information engineering, Nanjing University of Aeronautics and Astronautics (南京航空航天大学电子信息工程学院) with a Ph.D’s degree in 2020, advised by professor Yiquan Wu (吴一全).
 
