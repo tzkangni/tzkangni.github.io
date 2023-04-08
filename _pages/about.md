@@ -61,6 +61,10 @@ My research interest includes machine learning, computer vision, SAR image proce
 - *2016.9 ~ 2020.10*, Phd, Nanjing University of Aeronautics and Astronautics. 
 - *2013.9 ~ 2016.6*, M.S., Changchun University of Technology.
 
+# 📚 Courses
+- Python Programming
+- Unified Modeling Language
+
 # 📖 Supervised Students
 - Chunyang Yuan (Master, candidate)
 - Minrui Zou (Master, candidate)
