@@ -6,16 +6,16 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Selected publications"
+  - title: "Publications"
     url: "/#-Selected publications"
 
-  - title: "Fundings and projects"
+  - title: "Fundings"
     url: "/#-Fundings and projects"
 
   - title: " Acadamic services"
     url: "/#- Acadamic services"
 
-  - title: "Educations and work experience"
+  - title: "Educations"
     url: "/#-Educations and work experience"
 
   - title: "Courses"
