@@ -9,11 +9,11 @@ main:
   - title: "Selected publications"
     url: "/#-Selected publications"
 
-  - title: "Fundings and Projects"
-    url: "/#-Fundings and Projects"
+  - title: "Fundings and projects"
+    url: "/#-Fundings and projects"
 
-  - title: " Acadamic Services"
-    url: "/#- Acadamic Services"
+  - title: " Acadamic services"
+    url: "/#- Acadamic services"
 
   - title: "Educations and work experience"
     url: "/#-Educations and work experience"
@@ -21,5 +21,5 @@ main:
   - title: "Courses"
     url: "/#-Courses"
     
-  - title: "Supervised Students"
-    url: "/#-Supervised Students"
+  - title: "Supervised students"
+    url: "/#-Supervised students"
