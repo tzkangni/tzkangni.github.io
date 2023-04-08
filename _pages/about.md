@@ -49,15 +49,15 @@ My research interest includes machine learning, computer vision, SAR image proce
 - Natural Science Foundation of China (Youth Project). 
 - Natural Science Foundation of Jiangsu Province (Youth Project). 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Acadamic Services
-- Reviewer for IEEE TGRS, IEEE JSTARS, IEEE GRSL, Remote Sensing.
+- Reviewer for IEEE TGRS, IEEE JSTARS, IEEE GRSL, Remote Sensing, et al.
 - IEEE member
 - CCF member
+
+# 📖 Supervised Students
+- Chunyang Yuan (Master, candidate)
+- Minrui Zou (Master, candidate)
+
+
+
