@@ -19,7 +19,7 @@ redirect_from:
 
 I work at the School of Computer Science  as an assistant professor and [master’s supervisor](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=32C25D4D68CE834EB4FF94079834CE0E) now, doing some fundamental research on  machine learning, computer vision, SAR image processing, and remote sensing image processing. I am also recruiting graduate students, if interested, feel free to email me at [tznikang@njupt.edu.cn](mailto:tznikang@njupt.edu.cn).
 
-I graduated from the School of Electronic information engineering, Nanjing University of Aeronautics and Astronautics (南京航空航天大学电子信息工程学院) with a Ph.D’s degree in 2020, advised by prof. Yiquan Wu (吴一全), and from Nanjing University of Posts and Telecommunications with a post doctor in 2021, supervised by prof. [Yun Li(李云)](https://lidata-ai.github.io) .
+I graduated from the School of Electronic information engineering, Nanjing University of Aeronautics and Astronautics (南京航空航天大学电子信息工程学院) with a Ph.D’s degree in 2020, advised by prof. [Yiquan Wu (吴一全),](http://faculty.nuaa.edu.cn/wyq2/zh_CN/index.htm) and from Nanjing University of Posts and Telecommunications with a post doctor in 2021, supervised by prof. [Yun Li(李云)](https://lidata-ai.github.io) .
 
 My research interest includes machine learning, computer vision, SAR image processing, and remote sensing image processing. I have published more than 10 papers  at the signal processing conferences/journals such as IEEE JSTARS，IEEE GRSL，IGRASS.
 
