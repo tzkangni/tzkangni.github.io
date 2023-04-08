@@ -39,7 +39,10 @@ My research interest includes machine learning, computer vision, SAR image proce
 - **Kang Ni**, Yiquan Wu, Peng Wang. Scene classification from synthetic aperture radar images using generalized compact channel-boosted high-order orderless pooling network, **Remote Sensing**, 2019.
 
 ## 🧑🏻‍🤝‍🧑🏼 SAR object detection
-- b
+- **Kang Ni**, Yiquan Wu. River channel extraction from synthetic aperture radar images based on region-based active contour model. **Signal, Image and Video Processing**, 2019.
+- **Kang Ni**, Yiquan Wu. Synthetic aperture radar river image segmentation using improved localizing region-based active contour model. **Pattern Analysis and Applications**, 2019.
+- **Kang Ni**, Yiquan Wu. Active contours driven by novel fitting term for image segmentation. **Electronics Letters**, 2017.
+- **Kang Ni**, Yuqing Zhao, Yiquan Wu. SAR image segmentation based on super-pixel and kernel-improved CV model. **IEEE International Geoscience and Remote Sensing Symposium**, Kuala Lumpur, Malaysia, 2022. 
 
 
 ## 🎰Remote sensing scene classification
