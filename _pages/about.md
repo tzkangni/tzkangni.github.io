@@ -55,7 +55,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 - IEEE member
 - CCF member
 
-# 👨‍🎓 Educations and work experience**
+# 👨‍🎓 Educations and work experience
 - *2021.12 ~ Present*, Post Doctor, Nanjing University of Posts and Telecommunications, Supervised by Prof. Yun Li. 
 - *2020.12 ~ Present*, Lecturer, The School of Computer Science, Nanjing University of Posts and Telecommunications. 
 - *2016.9 ~ 2020.10*, Phd, Nanjing University of Aeronautics and Astronautics. 
