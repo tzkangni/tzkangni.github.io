@@ -7,19 +7,19 @@ main:
     url: "/#-news"
     
   - title: "Publications"
-    url: "/#selected-publications"
+    url: "/#-selected-publications"
 
   - title: "Fundings"
-    url: "/#fundings-and-projects"
+    url: "/#-fundings-and-projects"
 
   - title: "Acadamic services"
-    url: "/#acadamic-services"
+    url: "/#-acadamic-services"
 
   - title: "Educations"
-    url: "/#education-and-work-experience"
+    url: "/#-education-and-work-experience"
 
   - title: "Courses"
-    url: "/#courses"
+    url: "/#-courses"
     
   - title: "Supervised students"
-    url: "/#supervised-students"
+    url: "/#-supervised-students"
