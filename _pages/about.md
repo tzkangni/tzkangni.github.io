@@ -48,7 +48,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 ## 🎰Remote sensing scene classification
 -  **Kang Ni**, Yiquan Wu. Scene classification from remote sensing images using mid-level deep feature learning, **International Journal of Remote Sensing**, 2020.
--  
+-  **Kang Ni**, Fei Zhou, Yiquan Wu, Xiaohui Hao. Multi-order feature fusion joint training network for remote sensing scene classification, **IEEE International conference on electronic engineering and informatics**, Nanjing, China, 2019.
 
 ## 🍀 Others
 - **Kang Ni**, Yiquan Wu. Adaptive patched L0 gradient minimisation model applied on image smoothing, **IET Image Processing**, 2018.
