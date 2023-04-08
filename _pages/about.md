@@ -53,12 +53,12 @@ My research interest includes machine learning, computer vision, SAR image proce
 ## 🍀 Others
 - **Kang Ni**, Yiquan Wu. Adaptive patched L0 gradient minimisation model applied on image smoothing, **IET Image Processing**, 2018.
 
-# 🎖 Fundings and Projects
+# 🎖 Fundings and projects
 - Natural Science Foundation of China (Youth Project). 
 - Natural Science Foundation of Jiangsu Province (Youth Project). 
 
 
-# 💻 Acadamic Services
+# 💻 Acadamic services
 - Reviewer for IEEE TGRS, IEEE JSTARS, IEEE GRSL, Remote Sensing, et al.
 - IEEE member
 - CCF member
@@ -73,7 +73,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 - Python Programming
 - Unified Modeling Language
 
-# 📖 Supervised Students
+# 📖 Supervised students
 - Chunyang Yuan (Master, candidate)
 - Minrui Zou (Master, candidate)
 
