@@ -35,22 +35,23 @@ My research interest includes machine learning, computer vision, SAR image proce
 - **Kang Ni**, Pengfei Liu, Peng Wang. Compact global-local convolutional network with multi-feature fusion and learning for scene classification in synthetic aperture radar imagery, **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2021. [PDF](https://ieeexplore.ieee.org/document/9484804)
 - **Kang Ni**, Pengfei Liu, Peng Wang. High-resolution SAR image classification using subspace wavelet encoding network, **IEEE Geoscience and Remote Sensing Letters**, 2021. [PDF](https://ieeexplore.ieee.org/document/9584865)
 - **Kang Ni**, Yiquan Wu, Peng Wang. Synthetic aperture radar scene classification using multi-view cross correlation attention network, **IEEE Geoscience and Remote Sensing Letters**, 2020. [PDF](https://ieeexplore.ieee.org/document/8915791)
-- **Kang Ni**, Peng Wang, Yiquan Wu. High-order generalized orderless pooling networks for synthetic aperture radar scene classification, **IEEE Geoscience and Remote Sensing Letters**, 2019.[PDF](https://ieeexplore.ieee.org/document/8695749)
-- **Kang Ni**, Yiquan Wu, Peng Wang. Scene classification from synthetic aperture radar images using generalized compact channel-boosted high-order orderless pooling network, **Remote Sensing**, 2019.
+- **Kang Ni**, Peng Wang, Yiquan Wu. High-order generalized orderless pooling networks for synthetic aperture radar scene classification, **IEEE Geoscience and Remote Sensing Letters**, 2019. [PDF](https://ieeexplore.ieee.org/document/8695749)
+- **Kang Ni**, Yiquan Wu, Peng Wang. Scene classification from synthetic aperture radar images using generalized compact channel-boosted high-order orderless pooling network, **Remote Sensing**, 2019. [PDF](https://www.mdpi.com/2072-4292/11/9/1079)
+- **Kang Ni**, Chunyang Yuan. GPCNet: global-context pyramidal and class-balanced network for high-resolution SAR remote sensing image classification, **Journal of Applied Remote Sensing**, 2022. [PDF](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-16/issue-3/036510/GPCNet--global-context-pyramidal-and-class-balanced-network-for/10.1117/1.JRS.16.036510.short)
 
 ## 🧑🏻‍🤝‍🧑🏼 SAR object detection
-- **Kang Ni**, Yiquan Wu. River channel extraction from synthetic aperture radar images based on region-based active contour model. **Signal, Image and Video Processing**, 2019.
-- **Kang Ni**, Yiquan Wu. Synthetic aperture radar river image segmentation using improved localizing region-based active contour model. **Pattern Analysis and Applications**, 2019.
-- **Kang Ni**, Yiquan Wu. Active contours driven by novel fitting term for image segmentation. **Electronics Letters**, 2017.
-- **Kang Ni**, Yuqing Zhao, Yiquan Wu. SAR image segmentation based on super-pixel and kernel-improved CV model. **IEEE International Geoscience and Remote Sensing Symposium**, Kuala Lumpur, Malaysia, 2022. 
+- **Kang Ni**, Yiquan Wu. River channel extraction from synthetic aperture radar images based on region-based active contour model, **Signal, Image and Video Processing**, 2019.
+- **Kang Ni**, Yiquan Wu. Synthetic aperture radar river image segmentation using improved localizing region-based active contour model, **Pattern Analysis and Applications**, 2019.
+- **Kang Ni**, Yiquan Wu. Active contours driven by novel fitting term for image segmentation, **Electronics Letters**, 2017.
+- **Kang Ni**, Yuqing Zhao, Yiquan Wu. SAR image segmentation based on super-pixel and kernel-improved CV model, **IEEE International Geoscience and Remote Sensing Symposium**, Kuala Lumpur, Malaysia, 2022. 
 
 
 ## 🎰Remote sensing scene classification
--  **Kang Ni**, Yiquan Wu. Scene classification from remote sensing images using mid-level deep feature learning. **International Journal of Remote Sensing**, 2020.
+-  **Kang Ni**, Yiquan Wu. Scene classification from remote sensing images using mid-level deep feature learning, **International Journal of Remote Sensing**, 2020.
 -  
 
 ## 🍀 Others
-- **Kang Ni**, Yiquan Wu. Adaptive patched L0 gradient minimisation model applied on image smoothing. **IET Image Processing**, 2018.
+- **Kang Ni**, Yiquan Wu. Adaptive patched L0 gradient minimisation model applied on image smoothing, **IET Image Processing**, 2018.
 
 # 🎖 Fundings and Projects
 - Natural Science Foundation of China (Youth Project). 
