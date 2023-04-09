@@ -52,9 +52,9 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 ## 🍀 Others
 - **Kang Ni**, Yiquan Wu. Adaptive patched L0 gradient minimisation model applied on image smoothing, **IET Image Processing**, 2018.
-- Peng Wang, Zhongchen He, Cai Li, **Kang Ni**. Subpixel Flood Inundation Mapping Based on Spatial-Spectral Information in Irregular Regions, **IEEE Geoscience and Remote Sensing Letters**, 2022.
-- Peng Wang, Yulan Wang, Lei Zhang, **Kang Ni**. Subpixel Mapping Based on Multisource Remote Sensing Fusion Data for Land-Cover Classes, **IEEE Geoscience and Remote Sensing Letters**, 2022.
-- Fei Zhou, Yiquan Wu, Yimian Dai, **Kang Ni**. Robust Infrared Small Target Detection via Jointly Sparse Constraint of l1/2-Metric and Dual-Graph Regularization, **Remote Sensing**, 2020.
+- Peng Wang, Zhongchen He, Cai Li, **Kang Ni**. Subpixel flood inundation mapping based on spatial-spectral information in irregular regions, **IEEE Geoscience and Remote Sensing Letters**, 2022.
+- Peng Wang, Yulan Wang, Lei Zhang, **Kang Ni**. Subpixel mapping based on multisource remote sensing fusion data for land-cover classes, **IEEE Geoscience and Remote Sensing Letters**, 2022.
+- Fei Zhou, Yiquan Wu, Yimian Dai, **Kang Ni**. Robust infrared small target detection via jointly sparse constraint of l1/2-metric and dual-graph regularization, **Remote Sensing**, 2020.
 
 # 🎖 Fundings and projects
 - Natural Science Foundation of China (Youth Project). 
