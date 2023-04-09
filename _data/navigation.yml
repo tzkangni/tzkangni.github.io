@@ -15,8 +15,8 @@ main:
   - title: "Acadamic services"
     url: "/#-acadamic-services"
 
-  - title: "Educations"
-    url: "/#-educations-and-work-experience"
+ # - title: "Educations"
+ #   url: "/#-educations-and-work-experience"
 
   - title: "Courses"
     url: "/#-courses"
