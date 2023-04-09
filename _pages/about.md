@@ -21,7 +21,7 @@ I work at the School of Computer Science  as an assistant professor and [master�
 
 I graduated from the School of Electronic information engineering, Nanjing University of Aeronautics and Astronautics (南京航空航天大学电子信息工程学院) with a Ph.D’s degree in 2020, advised by prof. [Yiquan Wu (吴一全),](http://faculty.nuaa.edu.cn/wyq2/zh_CN/index.htm) and from Nanjing University of Posts and Telecommunications with a post doctor in 2021, supervised by prof. [Yun Li(李云)](https://lidata-ai.github.io) .
 
-My research interest includes machine learning, computer vision, SAR image processing, and remote sensing image processing. I have published more than 10 papers  at the signal processing conferences/journals such as IEEE JSTARS，IEEE GRSL，IGRASS.
+My research interest includes machine learning, computer vision, SAR image processing, and remote sensing image processing. I have published more than 20 papers  at the signal processing conferences/journals such as IEEE JSTARS，IEEE GRSL，IGRASS.
 
 
 
