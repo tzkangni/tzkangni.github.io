@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kang Ni (倪康)"
-description              : "My research interests include machine learning, computer vision, SAR image processing, and remote sensing image processing. "
+description              : "My research interests include machine learning, computer vision, SAR image processing, and optical remote sensing image processing. "
 repository               : "tzkangni/tzkangni.github.io"
 google_scholar_stats_use_cdn : true
 
