@@ -26,12 +26,13 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.02*: &nbsp;🎉🎉 One paper on “SAR image classification” is accepted by IEEE JSTARS. 
+- *2022.09*: &nbsp;🎉🎉 One paper on “SAR object detection” is accepted by IEEE IGRASS. 
 
 # 📝 Selected publications 
 
 ## 1. SAR image classification
+- **Kang Ni**, Mingliang Zhai, Qianqian Wu, Minrui Zou, Peng Wang. A wavelet-driven subspace basis learning network for high-resolution synthetic aperture radar image classification, **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2023. [PDF](https://ieeexplore.ieee.org/document/10035967)
 - **Kang Ni**, Pengfei Liu, Peng Wang. Compact global-local convolutional network with multi-feature fusion and learning for scene classification in synthetic aperture radar imagery, **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2021. [PDF](https://ieeexplore.ieee.org/document/9484804)
 - **Kang Ni**, Pengfei Liu, Peng Wang. High-resolution SAR image classification using subspace wavelet encoding network, **IEEE Geoscience and Remote Sensing Letters**, 2021. [PDF](https://ieeexplore.ieee.org/document/9584865)
 - **Kang Ni**, Yiquan Wu, Peng Wang. Synthetic aperture radar scene classification using multi-view cross correlation attention network, **IEEE Geoscience and Remote Sensing Letters**, 2020. [PDF](https://ieeexplore.ieee.org/document/8915791)
