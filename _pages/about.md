@@ -40,21 +40,21 @@ My research interest includes machine learning, computer vision, SAR image proce
 - **Kang Ni**, Chunyang Yuan. GPCNet: global-context pyramidal and class-balanced network for high-resolution SAR remote sensing image classification, **Journal of Applied Remote Sensing**, 2022. [PDF](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-16/issue-3/036510/GPCNet--global-context-pyramidal-and-class-balanced-network-for/10.1117/1.JRS.16.036510.short)
 
 ## 2. SAR object detection
-- **Kang Ni**, Yiquan Wu. River channel extraction from synthetic aperture radar images based on region-based active contour model, **Signal, Image and Video Processing**, 2019.
-- **Kang Ni**, Yiquan Wu. Synthetic aperture radar river image segmentation using improved localizing region-based active contour model, **Pattern Analysis and Applications**, 2019.
-- **Kang Ni**, Yiquan Wu. Active contours driven by novel fitting term for image segmentation, **Electronics Letters**, 2017.
-- **Kang Ni**, Yuqing Zhao, Yiquan Wu. SAR image segmentation based on super-pixel and kernel-improved CV model, **IEEE International Geoscience and Remote Sensing Symposium**, Kuala Lumpur, Malaysia, 2022. 
+- **Kang Ni**, Yiquan Wu. River channel extraction from synthetic aperture radar images based on region-based active contour model, **Signal, Image and Video Processing**, 2019. [PDF](https://link.springer.com/article/10.1007/s11760-019-01452-1)
+- **Kang Ni**, Yiquan Wu. Synthetic aperture radar river image segmentation using improved localizing region-based active contour model, **Pattern Analysis and Applications**, 2019. [PDF](https://link.springer.com/article/10.1007/s10044-018-0683-6)
+- **Kang Ni**, Yiquan Wu. Active contours driven by novel fitting term for image segmentation, **Electronics Letters**, 2017. [PDF](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/el.2017.1531)
+- **Kang Ni**, Yuqing Zhao, Yiquan Wu. SAR image segmentation based on super-pixel and kernel-improved CV model, **IEEE International Geoscience and Remote Sensing Symposium**, Kuala Lumpur, Malaysia, 2022. [PDF](https://ieeexplore.ieee.org/document/9883471/)
 
 
 ## 3. Remote sensing scene classification
--  **Kang Ni**, Yiquan Wu. Scene classification from remote sensing images using mid-level deep feature learning, **International Journal of Remote Sensing**, 2020.
--  **Kang Ni**, Fei Zhou, Yiquan Wu, Xiaohui Hao. Multi-order feature fusion joint training network for remote sensing scene classification, **IEEE International conference on electronic engineering and informatics**, Nanjing, China, 2019.
+-  **Kang Ni**, Yiquan Wu. Scene classification from remote sensing images using mid-level deep feature learning, **International Journal of Remote Sensing**, 2020. [PDF](https://www.tandfonline.com/doi/abs/10.1080/01431161.2019.1667551?journalCode=tres20)
+-  **Kang Ni**, Fei Zhou, Yiquan Wu, Xiaohui Hao. Multi-order feature fusion joint training network for remote sensing scene classification, **IEEE International conference on electronic engineering and informatics**, Nanjing, China, 2019. [PDF](https://ieeexplore.ieee.org/document/8991135/)
 
 ## 4. Others
-- **Kang Ni**, Yiquan Wu. Adaptive patched L0 gradient minimisation model applied on image smoothing, **IET Image Processing**, 2018.
-- Peng Wang, Zhongchen He, Cai Li, **Kang Ni**. Subpixel flood inundation mapping based on spatial-spectral information in irregular regions, **IEEE Geoscience and Remote Sensing Letters**, 2022.
-- Peng Wang, Yulan Wang, Lei Zhang, **Kang Ni**. Subpixel mapping based on multisource remote sensing fusion data for land-cover classes, **IEEE Geoscience and Remote Sensing Letters**, 2022.
-- Fei Zhou, Yiquan Wu, Yimian Dai, **Kang Ni**. Robust infrared small target detection via jointly sparse constraint of l1/2-metric and dual-graph regularization, **Remote Sensing**, 2020.
+- **Kang Ni**, Yiquan Wu. Adaptive patched L0 gradient minimisation model applied on image smoothing, **IET Image Processing**, 2018. [PDF](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-ipr.2017.1223)
+- Peng Wang, Zhongchen He, Cai Li, **Kang Ni**. Subpixel flood inundation mapping based on spatial-spectral information in irregular regions, **IEEE Geoscience and Remote Sensing Letters**, 2022. [PDF](https://ieeexplore.ieee.org/document/9885242)
+- Peng Wang, Yulan Wang, Lei Zhang, **Kang Ni**. Subpixel mapping based on multisource remote sensing fusion data for land-cover classes, **IEEE Geoscience and Remote Sensing Letters**, 2022. [PDF](https://ieeexplore.ieee.org/document/9411930)
+- Fei Zhou, Yiquan Wu, Yimian Dai, **Kang Ni**. Robust infrared small target detection via jointly sparse constraint of l1/2-metric and dual-graph regularization, **Remote Sensing**, 2020. [PDF](https://www.mdpi.com/2072-4292/12/12/1963)
 
 # 🎖 Fundings and projects
 - Natural Science Foundation of China (Youth Project). 
