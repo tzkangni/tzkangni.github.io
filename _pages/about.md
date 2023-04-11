@@ -27,6 +27,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 # 🔥 News
 - *2023.02*: &nbsp;🎉🎉 One paper on “SAR image classification” is accepted by IEEE JSTARS. 
+- *2022.09*: &nbsp;🎉🎉 One paper on “Multisource remote sensing fusion” is accepted by IEEE GRSL. 
 - *2022.09*: &nbsp;🎉🎉 One paper on “SAR object detection” is accepted by IEEE IGRASS. 
 
 # 📝 Selected publications 
@@ -54,7 +55,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 ## 4. Others
 - **Kang Ni**, Yiquan Wu. Adaptive patched L0 gradient minimisation model applied on image smoothing, **IET Image Processing**, 2018. [PDF](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-ipr.2017.1223)
 - Peng Wang, Zhongchen He, Cai Li, **Kang Ni**. Subpixel flood inundation mapping based on spatial-spectral information in irregular regions, **IEEE Geoscience and Remote Sensing Letters**, 2022. [PDF](https://ieeexplore.ieee.org/document/9885242)
-- Peng Wang, Yulan Wang, Lei Zhang, **Kang Ni**. Subpixel mapping based on multisource remote sensing fusion data for land-cover classes, **IEEE Geoscience and Remote Sensing Letters**, 2022. [PDF](https://ieeexplore.ieee.org/document/9411930)
+- Peng Wang, Yulan Wang, Lei Zhang, **Kang Ni**. Subpixel mapping based on multisource remote sensing fusion data for land-cover classes, **IEEE Geoscience and Remote Sensing Letters**, 2021. [PDF](https://ieeexplore.ieee.org/document/9411930)
 - Fei Zhou, Yiquan Wu, Yimian Dai, **Kang Ni**. Robust infrared small target detection via jointly sparse constraint of l1/2-metric and dual-graph regularization, **Remote Sensing**, 2020. [PDF](https://www.mdpi.com/2072-4292/12/12/1963)
 
 # 🎖 Fundings and projects
