@@ -26,7 +26,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 
 # 🔥 News
-- *2023.05*: &nbsp;🎉🎉 Three papers on “Flow estimation” is accepted by ICASSP 2023. 
+- *2023.05*: &nbsp;🎉🎉 Three papers on “Flow estimation” is accepted by IEEE ICASSP 2023. 
 - *2023.02*: &nbsp;🎉🎉 One paper on “SAR image classification” is accepted by IEEE JSTARS. 
 - *2022.09*: &nbsp;🎉🎉 One paper on “Multisource remote sensing fusion” is accepted by IEEE GRSL. 
 - *2022.09*: &nbsp;🎉🎉 One paper on “SAR object detection” is accepted by IEEE IGRASS. 
