@@ -26,6 +26,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 
 # 🔥 News
+- *2023.05*: &nbsp;🎉🎉 Three papers on “Flow estimation” is accepted by ICASSP 2023. 
 - *2023.02*: &nbsp;🎉🎉 One paper on “SAR image classification” is accepted by IEEE JSTARS. 
 - *2022.09*: &nbsp;🎉🎉 One paper on “Multisource remote sensing fusion” is accepted by IEEE GRSL. 
 - *2022.09*: &nbsp;🎉🎉 One paper on “SAR object detection” is accepted by IEEE IGRASS. 
@@ -54,6 +55,9 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 ## 4. Others
 - **Kang Ni**, Yiquan Wu. Adaptive patched L0 gradient minimisation model applied on image smoothing, **IET Image Processing**, 2018. [PDF](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-ipr.2017.1223)
+- Mingliang Zhai, **Kang Ni**, Jiucheng Xie, Hao Gao. Cross-modal optical flow estimation via modality compensation and alignment, **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, Rhodes Island, Greece, 2023. [PDF](https://ieeexplore.ieee.org/document/10095898)
+- Mingliang Zhai, **Kang Ni**, Jiucheng Xie, Hao Gao. Learning scene flow from 3d point clouds with cross-transformer and global motion cues, **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, Rhodes Island, Greece, 2023. [PDF](https://ieeexplore.ieee.org/document/10095650)
+- Mingliang Zhai, **Kang Ni**, Jiucheng Xie, Hao Gao. Spike-based optical flow estimation via contrastive learning, **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, Rhodes Island, Greece, 2023. [PDF](https://ieeexplore.ieee.org/document/10094700)
 - Peng Wang, Zhongchen He, Cai Li, **Kang Ni**. Subpixel flood inundation mapping based on spatial-spectral information in irregular regions, **IEEE Geoscience and Remote Sensing Letters**, 2022. [PDF](https://ieeexplore.ieee.org/document/9885242)
 - Peng Wang, Yulan Wang, Lei Zhang, **Kang Ni**. Subpixel mapping based on multisource remote sensing fusion data for land-cover classes, **IEEE Geoscience and Remote Sensing Letters**, 2021. [PDF](https://ieeexplore.ieee.org/document/9411930)
 - Fei Zhou, Yiquan Wu, Yimian Dai, **Kang Ni**. Robust infrared small target detection via jointly sparse constraint of l1/2-metric and dual-graph regularization, **Remote Sensing**, 2020. [PDF](https://www.mdpi.com/2072-4292/12/12/1963)
