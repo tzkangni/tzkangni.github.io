@@ -26,6 +26,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 
 # 🔥 News
+- *2023.06*: &nbsp;🎉🎉 Three papers on “Flow estimation” is accepted by IEEE ICIP 2023. 
 - *2023.05*: &nbsp;🎉🎉 Three papers on “Flow estimation” is accepted by IEEE ICASSP 2023. 
 - *2023.02*: &nbsp;🎉🎉 One paper on “SAR image classification” is accepted by IEEE JSTARS. 
 - *2022.09*: &nbsp;🎉🎉 One paper on “Multisource remote sensing fusion” is accepted by IEEE GRSL. 
@@ -64,7 +65,9 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 # 🎖 Fundings and projects
 - Natural Science Foundation of China (Youth Project). 
-- Natural Science Foundation of Jiangsu Province (Youth Project). 
+- Natural Science Foundation of Jiangsu Province (Youth Project).
+- China Postdoctoral Science Foundation
+- Key Laboratory of Radar Imaging and Microwave Photonics Project (Nanjing University of Aeronautics and Astronautics), Ministry of Education
 
 
 # 💻 Acadamic services
@@ -79,6 +82,8 @@ My research interest includes machine learning, computer vision, SAR image proce
 # 📖 Supervised students
 - Chunyang Yuan (Master, candidate)
 - Minrui Zou (Master, candidate)
+- Wenjie Jia (Master, candidate)
+- Yunan Xie (Master, candidate)
 
 
 
