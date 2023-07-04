@@ -66,8 +66,8 @@ My research interest includes machine learning, computer vision, SAR image proce
 # 🎖 Fundings and projects
 - Natural Science Foundation of China (Youth Project). 
 - Natural Science Foundation of Jiangsu Province (Youth Project).
-- China Postdoctoral Science Foundation
-- Key Laboratory of Radar Imaging and Microwave Photonics Project (Nanjing University of Aeronautics and Astronautics), Ministry of Education
+- China Postdoctoral Science Foundation.
+- Key Laboratory of Radar Imaging and Microwave Photonics Project (Nanjing University of Aeronautics and Astronautics), Ministry of Education.
 
 
 # 💻 Acadamic services
