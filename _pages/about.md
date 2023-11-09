@@ -26,6 +26,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 
 # 🔥 News
+- *2023.06*: &nbsp;🎉🎉 One paper on “SAR image classification” is accepted by IEEE GRSL. 
 - *2023.06*: &nbsp;🎉🎉 One paper on “Flow estimation” is accepted by IEEE ICIP 2023. 
 - *2023.05*: &nbsp;🎉🎉 Three papers on “Flow estimation” is accepted by IEEE ICASSP 2023. 
 - *2023.02*: &nbsp;🎉🎉 One paper on “SAR image classification” is accepted by IEEE JSTARS. 
@@ -37,6 +38,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 ## 1. SAR image classification
 - **Kang Ni**, Mingliang Zhai, Qianqian Wu, Minrui Zou, Peng Wang. A wavelet-driven subspace basis learning network for high-resolution synthetic aperture radar image classification, **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2023. [PDF](https://ieeexplore.ieee.org/document/10035967)
 - **Kang Ni**, Pengfei Liu, Peng Wang. Compact global-local convolutional network with multi-feature fusion and learning for scene classification in synthetic aperture radar imagery, **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2021. [PDF](https://ieeexplore.ieee.org/document/9484804)
+- **Kang Ni**, Mingliang Zhai, Minrui Zou, Qianqian Wu, Peng Wang. DJSPNet: Deep Joint Statistical–Spatial Pooling Network for High-Resolution SAR Image Classification, **IEEE Geoscience and Remote Sensing Letters**, 2023. [PDF](https://ieeexplore.ieee.org/document/10160023)
 - **Kang Ni**, Pengfei Liu, Peng Wang. High-resolution SAR image classification using subspace wavelet encoding network, **IEEE Geoscience and Remote Sensing Letters**, 2021. [PDF](https://ieeexplore.ieee.org/document/9584865)
 - **Kang Ni**, Yiquan Wu, Peng Wang. Synthetic aperture radar scene classification using multi-view cross correlation attention network, **IEEE Geoscience and Remote Sensing Letters**, 2020. [PDF](https://ieeexplore.ieee.org/document/8915791)
 - **Kang Ni**, Peng Wang, Yiquan Wu. High-order generalized orderless pooling networks for synthetic aperture radar scene classification, **IEEE Geoscience and Remote Sensing Letters**, 2019. [PDF](https://ieeexplore.ieee.org/document/8695749)
