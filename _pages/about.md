@@ -79,6 +79,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 # 📚 Courses
 - Python Programming
+- GNU/Linux Programming
 - Unified Modeling Language
 
 # 📖 Supervised students
