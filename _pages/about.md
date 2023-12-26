@@ -26,6 +26,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉🎉 One paper on “Remote sensing scene classification” is accepted by National Remote Sensing Bulletin. 
 - *2023.06*: &nbsp;🎉🎉 One paper on “SAR image classification” is accepted by IEEE GRSL. 
 - *2023.06*: &nbsp;🎉🎉 One paper on “Flow estimation” is accepted by IEEE ICIP 2023. 
 - *2023.05*: &nbsp;🎉🎉 Three papers on “Flow estimation” is accepted by IEEE ICASSP 2023. 
@@ -53,6 +54,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 
 ## 3. Remote sensing scene classification
+-  Qianqian Wu, **Kang Ni**, Zhizhong Zheng. Remote sensing image scene classification based on two-stage high-order transformer, **National Remote Sensing Bulletin**, 2023.
 -  **Kang Ni**, Yiquan Wu. Scene classification from remote sensing images using mid-level deep feature learning, **International Journal of Remote Sensing**, 2020. [PDF](https://www.tandfonline.com/doi/abs/10.1080/01431161.2019.1667551?journalCode=tres20)
 -  **Kang Ni**, Fei Zhou, Yiquan Wu, Xiaohui Hao. Multi-order feature fusion joint training network for remote sensing scene classification, **IEEE International conference on electronic engineering and informatics**, Nanjing, China, 2019. [PDF](https://ieeexplore.ieee.org/document/8991135/)
 
