@@ -59,7 +59,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 -  **Kang Ni**, Yiquan Wu. Scene classification from remote sensing images using mid-level deep feature learning, **International Journal of Remote Sensing**, 2020. [PDF](https://www.tandfonline.com/doi/abs/10.1080/01431161.2019.1667551?journalCode=tres20)
 -  **Kang Ni**, Fei Zhou, Yiquan Wu, Xiaohui Hao. Multi-order feature fusion joint training network for remote sensing scene classification, **IEEE International conference on electronic engineering and informatics**, Nanjing, China, 2019. [PDF](https://ieeexplore.ieee.org/document/8991135/)
 
-## 4. Others
+## 5. Others
 - **Kang Ni**, Yiquan Wu. Adaptive patched L0 gradient minimisation model applied on image smoothing, **IET Image Processing**, 2018. [PDF](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-ipr.2017.1223)
 - Mingliang Zhai, **Kang Ni**, Jiucheng Xie, Hao Gao. Cross-modal optical flow estimation via modality compensation and alignment, **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, Rhodes Island, Greece, 2023. [PDF](https://ieeexplore.ieee.org/document/10095898)
 - Mingliang Zhai, **Kang Ni**, Jiucheng Xie, Hao Gao. Learning scene flow from 3d point clouds with cross-transformer and global motion cues, **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, Rhodes Island, Greece, 2023. [PDF](https://ieeexplore.ieee.org/document/10095650)
