@@ -26,6 +26,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉🎉 One paper on “HSI and LiDAR classification” is accepted by IEEE JSTARS. 
 - *2023.12*: &nbsp;🎉🎉 One paper on “Remote sensing scene classification” is accepted by National Remote Sensing Bulletin. 
 - *2023.06*: &nbsp;🎉🎉 One paper on “SAR image classification” is accepted by IEEE GRSL. 
 - *2023.06*: &nbsp;🎉🎉 One paper on “Flow estimation” is accepted by IEEE ICIP 2023. 
@@ -50,8 +51,10 @@ My research interest includes machine learning, computer vision, SAR image proce
 - **Kang Ni**, Yiquan Wu. Active contours driven by novel fitting term for image segmentation, **Electronics Letters**, 2017. [PDF](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/el.2017.1531)
 - **Kang Ni**, Yuqing Zhao, Yiquan Wu. SAR image segmentation based on super-pixel and kernel-improved CV model, **IEEE International Geoscience and Remote Sensing Symposium**, Kuala Lumpur, Malaysia, 2022. [PDF](https://ieeexplore.ieee.org/document/9883471/)
 
+## 3. HSI and LiDAR classification
+- **Kang Ni**, Duo Wang, Zhizhong Zheng, Peng Wang. MHST: multiscale head selection transformer for hyperspectral and LiDAR classification, **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2024. [PDF](https://ieeexplore.ieee.org/document/10438852),[CODE](https://github.com/RSIP-NJUPT/MHST)
 
-## 3. Remote sensing scene classification
+## 4. Remote sensing scene classification
 -  Qianqian Wu, **Kang Ni**, Zhizhong Zheng. Remote sensing image scene classification based on two-stage high-order transformer, **National Remote Sensing Bulletin**, 2023.
 -  **Kang Ni**, Yiquan Wu. Scene classification from remote sensing images using mid-level deep feature learning, **International Journal of Remote Sensing**, 2020. [PDF](https://www.tandfonline.com/doi/abs/10.1080/01431161.2019.1667551?journalCode=tres20)
 -  **Kang Ni**, Fei Zhou, Yiquan Wu, Xiaohui Hao. Multi-order feature fusion joint training network for remote sensing scene classification, **IEEE International conference on electronic engineering and informatics**, Nanjing, China, 2019. [PDF](https://ieeexplore.ieee.org/document/8991135/)
