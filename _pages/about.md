@@ -79,6 +79,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 - Reviewer for IEEE TGRS, IEEE TAES, IEEE JSTARS, IEEE GRSL, Remote Sensing, et al.
 - IEEE member
 - CCF member
+- GRSS member
 
 # 📚 Courses
 - Python Programming
@@ -90,6 +91,8 @@ My research interest includes machine learning, computer vision, SAR image proce
 - Minrui Zou (Master, candidate)
 - Wenjie Jia (Master, candidate)
 - Yunan Xie (Master, candidate)
+- Ziyang Wang (Master, candidate)
+- Weiliang Fang (Master, candidate)
 
 
 
