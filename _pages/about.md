@@ -21,7 +21,7 @@ I work at the School of Computer Science  as an assistant professor and [master�
 
 I graduated from the School of Electronic information engineering, Nanjing University of Aeronautics and Astronautics (南京航空航天大学电子信息工程学院) with a Ph.D’s degree in 2020, advised by prof. [Yiquan Wu (吴一全),](http://faculty.nuaa.edu.cn/wyq2/zh_CN/index.htm) and from Nanjing University of Posts and Telecommunications with a post doctor in 2021, supervised by prof. [Yun Li(李云)](https://lidata-ai.github.io) .
 
-My research interest includes machine learning, computer vision, SAR image processing, and optical remote sensing image processing. I have published more than 20 papers  at the signal processing conferences/journals such as IEEE TAES, IEEE JSTARS，IEEE GRSL，IGRASS.
+My research interest includes machine learning, computer vision, SAR image processing, and optical remote sensing image processing. I have published more than 20 papers  at the signal processing conferences/journals such as IEEE TGRS, IEEE TAES, IEEE JSTARS，IEEE GRSL，ICASSP.
 
 
 
@@ -61,7 +61,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 -  **Kang Ni**, Qianqian Wu, Sichan Li, Zhizhong Zheng, Peng Wang. Remote sensing scene classification via second-order differentiable token transformer network, **IEEE Transactions on Geoscience and Remote Sensing**, 2024. [PDF](https://ieeexplore.ieee.org/document/10542965),[CODE](https://github.com/RSIP-NJUPT/SDT2Net)
 -  Qianqian Wu, **Kang Ni**, Zhizhong Zheng. Remote sensing image scene classification based on two-stage high-order transformer, **National Remote Sensing Bulletin**, 2023.
 -  **Kang Ni**, Yiquan Wu. Scene classification from remote sensing images using mid-level deep feature learning, **International Journal of Remote Sensing**, 2020. [PDF](https://www.tandfonline.com/doi/abs/10.1080/01431161.2019.1667551?journalCode=tres20)
--  **Kang Ni**, Fei Zhou, Yiquan Wu, Xiaohui Hao. Multi-order feature fusion joint training network for remote sensing scene classification, **IEEE International Conference on Electronic Engineering and Informatics**, Nanjing, China, 2019. [PDF](https://ieeexplore.ieee.org/document/8991135/)
+
 
 ## 5. Others
 - Mingliang Zhai, **Kang Ni**, Jiucheng Xie, Hao Gao. Cross-modal optical flow estimation via modality compensation and alignment, **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, Rhodes Island, Greece, 2023. [PDF](https://ieeexplore.ieee.org/document/10095898)
