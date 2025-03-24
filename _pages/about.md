@@ -93,7 +93,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 - Unified Modeling Language
 
 # 📖 Supervised students
-- Chunyang Yuan (Master, candidate)
+- Chunyang Yuan (Master, candidate, National scholarship for postgraduates)
 - Minrui Zou (Master, candidate)
 - Wenjie Jia (Master, candidate)
 - Yunan Xie (Master, candidate)
