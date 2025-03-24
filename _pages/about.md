@@ -66,7 +66,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 
 ## 5. Others
--  **Kang Ni**, Tengfei Ma, Zhizhong Zheng, Peng Wang. Object detection in remote sensing imagery based on prototype learning network with proposal relation[J]. IEEE Transactions on Instrumentation and Measurement, 2024, 73: 1-16.[PDF](https://ieeexplore.ieee.org/document/10681199),[CODE](https://github.com/RSIP-NJUPT/PLNet-PR)
+-  **Kang Ni**, Tengfei Ma, Zhizhong Zheng, Peng Wang. Object detection in remote sensing imagery based on prototype learning network with proposal relation[J]. **IEEE Transactions on Instrumentation and Measurement**, 2024, 73: 1-16.[PDF](https://ieeexplore.ieee.org/document/10681199),[CODE](https://github.com/RSIP-NJUPT/PLNet-PR)
 - Mingliang Zhai, **Kang Ni**, Jiucheng Xie, Hao Gao. Cross-modal optical flow estimation via modality compensation and alignment, **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, Rhodes Island, Greece, 2023. [PDF](https://ieeexplore.ieee.org/document/10095898)
 - Mingliang Zhai, **Kang Ni**, Jiucheng Xie, Hao Gao. Learning scene flow from 3d point clouds with cross-transformer and global motion cues, **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, Rhodes Island, Greece, 2023. [PDF](https://ieeexplore.ieee.org/document/10095650)
 - Mingliang Zhai, **Kang Ni**, Jiucheng Xie, Hao Gao. Spike-based optical flow estimation via contrastive learning, **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, Rhodes Island, Greece, 2023. [PDF](https://ieeexplore.ieee.org/document/10094700)
