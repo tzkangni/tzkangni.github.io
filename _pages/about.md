@@ -73,7 +73,6 @@ My research interest includes machine learning, computer vision, SAR image proce
 - Pengfei Liu, Haijian Long, **Kang Ni**, Zhizhong Zheng. Multimode structural nonconvex tensor low-rank regularized hyperspectral image destriping and denoising, **IEEE Geoscience and Remote Sensing Letters**, 2024. [PDF](https://ieeexplore.ieee.org/document/10487906)
 - Peng Wang, Zhongchen He, Cai Li, **Kang Ni**. Subpixel flood inundation mapping based on spatial-spectral information in irregular regions, **IEEE Geoscience and Remote Sensing Letters**, 2022. [PDF](https://ieeexplore.ieee.org/document/9885242)
 - Peng Wang, Yulan Wang, Lei Zhang, **Kang Ni**. Subpixel mapping based on multisource remote sensing fusion data for land-cover classes, **IEEE Geoscience and Remote Sensing Letters**, 2021. [PDF](https://ieeexplore.ieee.org/document/9411930)
-- Fei Zhou, Yiquan Wu, Yimian Dai, **Kang Ni**. Robust infrared small target detection via jointly sparse constraint of l1/2-metric and dual-graph regularization, **Remote Sensing**, 2020. [PDF](https://www.mdpi.com/2072-4292/12/12/1963)
 
 # 🎖 Fundings and projects
 - Natural Science Foundation of China (Youth Project). 
