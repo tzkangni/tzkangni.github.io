@@ -26,13 +26,12 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper on “Remote Sensing Object Detection” is accepted by IEEE TIM.
+- *2024.09*: &nbsp;🎉🎉 One paper on “HSI and LiDAR classification” is accepted by IEEE TGRS.
 - *2024.07*: &nbsp;🎉🎉 One paper on “SAR object detection” is accepted by IEEE JSTARS. 
 - *2024.05*: &nbsp;🎉🎉 One paper on “Remote sensing scene classification” is accepted by IEEE TGRS.
 - *2024.05*: &nbsp;🎉🎉 One paper on “SAR image classification” is accepted by IEEE TAES. 
 - *2024.03*: &nbsp;🎉🎉 One paper on “SAR image classification” is accepted by IEEE TAES. 
-- *2024.02*: &nbsp;🎉🎉 One paper on “HSI and LiDAR classification” is accepted by IEEE JSTARS. 
-- *2023.12*: &nbsp;🎉🎉 One paper on “Remote sensing scene classification” is accepted by National Remote Sensing Bulletin. 
-- *2023.06*: &nbsp;🎉🎉 One paper on “SAR image classification” is accepted by IEEE GRSL. 
 
 # 📝 Selected publications 
 
@@ -55,6 +54,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 - **Kang Ni**, Yuqing Zhao, Yiquan Wu. SAR image segmentation based on super-pixel and kernel-improved CV model, **IEEE International Geoscience and Remote Sensing Symposium**, Kuala Lumpur, Malaysia, 2022. [PDF](https://ieeexplore.ieee.org/document/9883471/)
 
 ## 3. HSI and LiDAR classification
+- **Kang Ni**, Duo Wang, Guofeng Zhao, Zhizhong Zheng, Peng Wang. Hyperspectral and LiDAR classification via frequency domain-based network[J]. **IEEE Transactions on Geoscience and Remote Sensing**, 2024, 62: 1-17.[PDF](https://ieeexplore.ieee.org/document/10614647),[CODE](https://github.com/RSIP-NJUPT/FDNet)
 - **Kang Ni**, Duo Wang, Zhizhong Zheng, Peng Wang. MHST: multiscale head selection transformer for hyperspectral and LiDAR classification, **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2024. [PDF](https://ieeexplore.ieee.org/document/10438852),[CODE](https://github.com/RSIP-NJUPT/MHST)
 
 ## 4. Remote sensing scene classification
@@ -64,6 +64,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 
 ## 5. Others
+-  **Kang Ni**, Tengfei Ma, Zhizhong Zheng, Peng Wang. Object detection in remote sensing imagery based on prototype learning network with proposal relation[J]. IEEE Transactions on Instrumentation and Measurement, 2024, 73: 1-16.[PDF](https://ieeexplore.ieee.org/document/10681199),[CODE](https://github.com/RSIP-NJUPT/PLNet-PR)
 - Mingliang Zhai, **Kang Ni**, Jiucheng Xie, Hao Gao. Cross-modal optical flow estimation via modality compensation and alignment, **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, Rhodes Island, Greece, 2023. [PDF](https://ieeexplore.ieee.org/document/10095898)
 - Mingliang Zhai, **Kang Ni**, Jiucheng Xie, Hao Gao. Learning scene flow from 3d point clouds with cross-transformer and global motion cues, **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, Rhodes Island, Greece, 2023. [PDF](https://ieeexplore.ieee.org/document/10095650)
 - Mingliang Zhai, **Kang Ni**, Jiucheng Xie, Hao Gao. Spike-based optical flow estimation via contrastive learning, **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, Rhodes Island, Greece, 2023. [PDF](https://ieeexplore.ieee.org/document/10094700)
