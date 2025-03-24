@@ -26,6 +26,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉🎉 One paper on “HSI and LiDAR classification” is accepted by IEEE GRSL.
 - *2024.09*: &nbsp;🎉🎉 One paper on “Remote Sensing Object Detection” is accepted by IEEE TIM.
 - *2024.09*: &nbsp;🎉🎉 One paper on “HSI and LiDAR classification” is accepted by IEEE TGRS.
 - *2024.07*: &nbsp;🎉🎉 One paper on “SAR object detection” is accepted by IEEE JSTARS. 
@@ -56,6 +57,7 @@ My research interest includes machine learning, computer vision, SAR image proce
 ## 3. HSI and LiDAR classification
 - **Kang Ni**, Duo Wang, Guofeng Zhao, Zhizhong Zheng, Peng Wang. Hyperspectral and LiDAR classification via frequency domain-based network[J]. **IEEE Transactions on Geoscience and Remote Sensing**, 2024, 62: 1-17.[PDF](https://ieeexplore.ieee.org/document/10614647),[CODE](https://github.com/RSIP-NJUPT/FDNet)
 - **Kang Ni**, Duo Wang, Zhizhong Zheng, Peng Wang. MHST: multiscale head selection transformer for hyperspectral and LiDAR classification, **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2024. [PDF](https://ieeexplore.ieee.org/document/10438852),[CODE](https://github.com/RSIP-NJUPT/MHST)
+- **Kang Ni**, Zirun Li, Chunyang Yuan, Zhizhong Zheng, Peng Wang. Selective spectral-spatial aggregation transformer for hyperspectral and LiDAR classification[J]. **IEEE Geoscience and Remote Sensing Letters**, 2025, 22: 1-5.[PDF](https://ieeexplore.ieee.org/document/10813565),[CODE](https://github.com/RSIP-NJUPT/S2ATNet)
 
 ## 4. Remote sensing scene classification
 -  **Kang Ni**, Qianqian Wu, Sichan Li, Zhizhong Zheng, Peng Wang. Remote sensing scene classification via second-order differentiable token transformer network, **IEEE Transactions on Geoscience and Remote Sensing**, 2024. [PDF](https://ieeexplore.ieee.org/document/10542965),[CODE](https://github.com/RSIP-NJUPT/SDT2Net)
