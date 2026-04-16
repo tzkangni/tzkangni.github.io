@@ -26,6 +26,8 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 One paper on “SAR object detection” is accepted by AAAI 2026.
+- *2025.10*: &nbsp;🎉🎉 One paper on “SAR object detection” is accepted by ISPRS P&RS.
 - *2025.06*: &nbsp;🎉🎉 One paper on “SAR image classification” is accepted by IEEE TAES.
 - *2025.03*: &nbsp;🎉🎉 One paper on “High-resolution downscaling” is accepted by IEEE TGRS.
 - *2025.01*: &nbsp;🎉🎉 One paper on “HSI and LiDAR classification” is accepted by IEEE GRSL.
@@ -33,12 +35,11 @@ My research interest includes machine learning, computer vision, SAR image proce
 - *2024.09*: &nbsp;🎉🎉 One paper on “HSI and LiDAR classification” is accepted by IEEE TGRS.
 - *2024.07*: &nbsp;🎉🎉 One paper on “SAR object detection” is accepted by IEEE JSTARS. 
 - *2024.05*: &nbsp;🎉🎉 One paper on “Remote sensing scene classification” is accepted by IEEE TGRS.
-- *2024.05*: &nbsp;🎉🎉 One paper on “SAR image classification” is accepted by IEEE TAES. 
-- *2024.03*: &nbsp;🎉🎉 One paper on “SAR image classification” is accepted by IEEE TAES. 
 
 # 📝 Selected publications 
 
 ## 1. SAR image classification
+- **Kang Ni**, Chunyang Yuan, Zhizhong Zheng, Peng Wang. SAR image time series for land cover mapping via sparse local-global temporal transformer network, **IEEE Transactions on Aerospace and Electronic Systems**, 2025. [PDF](https://ieeexplore.ieee.org/document/11015963/),[CODE](https://github.com/RSIP-NJUPT/SL-GT2Net)
 - **Kang Ni**, Chunyang Yuan, Zhizhong Zheng, Nan Huang, Peng Wang. DPGUNet: A dynamic pyramidal graph U-Net for SAR image classification, **IEEE Transactions on Aerospace and Electronic Systems**, 2024. [PDF](https://ieeexplore.ieee.org/document/10499890),[CODE](https://github.com/RSIP-NJUPT/DPGUNet)
 - **Kang Ni**, Chunyang Yuan, Zhizhong Zheng, Bingbing Zhang, Peng Wang. MPT-SFANet: Multi-order pooling transformer-based semantic feature aggregation network for SAR image classification, **IEEE Transactions on Aerospace and Electronic Systems**, 2024. [PDF](https://ieeexplore.ieee.org/document/10485456)
 - **Kang Ni**, Mingliang Zhai, Qianqian Wu, Minrui Zou, Peng Wang. A wavelet-driven subspace basis learning network for high-resolution synthetic aperture radar image classification, **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2023. [PDF](https://ieeexplore.ieee.org/document/10035967)
@@ -47,16 +48,16 @@ My research interest includes machine learning, computer vision, SAR image proce
 - **Kang Ni**, Pengfei Liu, Peng Wang. High-resolution SAR image classification using subspace wavelet encoding network, **IEEE Geoscience and Remote Sensing Letters**, 2021. [PDF](https://ieeexplore.ieee.org/document/9584865)
 - **Kang Ni**, Yiquan Wu, Peng Wang. Synthetic aperture radar scene classification using multi-view cross correlation attention network, **IEEE Geoscience and Remote Sensing Letters**, 2020. [PDF](https://ieeexplore.ieee.org/document/8915791)
 - **Kang Ni**, Peng Wang, Yiquan Wu. High-order generalized orderless pooling networks for synthetic aperture radar scene classification, **IEEE Geoscience and Remote Sensing Letters**, 2019. [PDF](https://ieeexplore.ieee.org/document/8695749)
-- **Kang Ni**, Yiquan Wu, Peng Wang. Scene classification from synthetic aperture radar images using generalized compact channel-boosted high-order orderless pooling network, **Remote Sensing**, 2019. [PDF](https://www.mdpi.com/2072-4292/11/9/1079)
-- **Kang Ni**, Chunyang Yuan. GPCNet: global-context pyramidal and class-balanced network for high-resolution SAR remote sensing image classification, **Journal of Applied Remote Sensing**, 2022. [PDF](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-16/issue-3/036510/GPCNet--global-context-pyramidal-and-class-balanced-network-for/10.1117/1.JRS.16.036510.short)
+
 
 ## 2. SAR object detection
+-  **Kang Ni**, Minrui Zou, Yuxuan Li, Xiang Li, Kehua Guo, Mingming Cheng, Yimian Dai. DenoDet V2: Phase-Amplitude Cross Denoising for SAR Object Detection, **AAA1**, 2026. [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/37761)
+- Yimian Dai, Minrui Zou, Yuxuan Li, Xiang Li, **Kang Ni***, Jian Yang. DenoDet: Attention as Deformable Multisubspace Feature Denoising for Target Detection in SAR Images, **IEEE Transactions on Aerospace and Electronic Systems**, 2025. [PDF](https://ieeexplore.ieee.org/document/10592767)
 - **Kang Ni**, Minrui Zou, Wenjie Jia, Mingliang Zhai, Zhizhong Zheng. SPSNet: A selected pyramidal shape-constrained network for SAR target detection, **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2024. [PDF](https://ieeexplore.ieee.org/document/10592767),[CODE](https://github.com/RSIP-NJUPT/SPSNet)
-- **Kang Ni**, Yiquan Wu. River channel extraction from synthetic aperture radar images based on region-based active contour model, **Signal, Image and Video Processing**, 2019. [PDF](https://link.springer.com/article/10.1007/s11760-019-01452-1)
-- **Kang Ni**, Yiquan Wu. Synthetic aperture radar river image segmentation using improved localizing region-based active contour model, **Pattern Analysis and Applications**, 2019. [PDF](https://link.springer.com/article/10.1007/s10044-018-0683-6)
 - **Kang Ni**, Yuqing Zhao, Yiquan Wu. SAR image segmentation based on super-pixel and kernel-improved CV model, **IEEE International Geoscience and Remote Sensing Symposium**, Kuala Lumpur, Malaysia, 2022. [PDF](https://ieeexplore.ieee.org/document/9883471/)
 
 ## 3. HSI and LiDAR classification
+- **Kang Ni**, Yunan Xie, Guofeng Zhao, Zhizhong Zheng, Peng Wang, Tongwei Lu. Coarse-to-fine high-order network for hyperspectral and LiDAR classification[J]. **IEEE Transactions on Geoscience and Remote Sensing**, 2025, 63: 1-17.[PDF](https://ieeexplore.ieee.org/document/10942399),[CODE](https://github.com/RSIP-NJUPT/CHNet)
 - **Kang Ni**, Duo Wang, Guofeng Zhao, Zhizhong Zheng, Peng Wang. Hyperspectral and LiDAR classification via frequency domain-based network[J]. **IEEE Transactions on Geoscience and Remote Sensing**, 2024, 62: 1-17.[PDF](https://ieeexplore.ieee.org/document/10614647),[CODE](https://github.com/RSIP-NJUPT/FDNet)
 - **Kang Ni**, Duo Wang, Zhizhong Zheng, Peng Wang. MHST: multiscale head selection transformer for hyperspectral and LiDAR classification, **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing**, 2024. [PDF](https://ieeexplore.ieee.org/document/10438852),[CODE](https://github.com/RSIP-NJUPT/MHST)
 - **Kang Ni**, Zirun Li, Chunyang Yuan, Zhizhong Zheng, Peng Wang. Selective spectral-spatial aggregation transformer for hyperspectral and LiDAR classification[J]. **IEEE Geoscience and Remote Sensing Letters**, 2025, 22: 1-5.[PDF](https://ieeexplore.ieee.org/document/10813565),[CODE](https://github.com/RSIP-NJUPT/S2ATNet)
