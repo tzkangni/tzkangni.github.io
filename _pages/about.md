@@ -26,14 +26,13 @@ My research interest includes machine learning, computer vision, SAR image proce
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 One paper on “HSI and LiDAR classification” is accepted by IEEE TGRS.
 - *2025.11*: &nbsp;🎉🎉 One paper on “SAR object detection” is accepted by AAAI 2026.
 - *2025.10*: &nbsp;🎉🎉 One paper on “SAR object detection” is accepted by ISPRS P&RS.
 - *2025.06*: &nbsp;🎉🎉 One paper on “SAR image classification” is accepted by IEEE TAES.
 - *2025.03*: &nbsp;🎉🎉 One paper on “High-resolution downscaling” is accepted by IEEE TGRS.
 - *2025.01*: &nbsp;🎉🎉 One paper on “HSI and LiDAR classification” is accepted by IEEE GRSL.
-- *2024.09*: &nbsp;🎉🎉 One paper on “Remote Sensing Object Detection” is accepted by IEEE TIM.
 - *2024.09*: &nbsp;🎉🎉 One paper on “HSI and LiDAR classification” is accepted by IEEE TGRS.
-- *2024.07*: &nbsp;🎉🎉 One paper on “SAR object detection” is accepted by IEEE JSTARS. 
 - *2024.05*: &nbsp;🎉🎉 One paper on “Remote sensing scene classification” is accepted by IEEE TGRS.
 
 # 📝 Selected publications 
